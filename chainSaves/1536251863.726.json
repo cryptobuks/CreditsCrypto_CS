@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "type": "-1",
+      "ownerAddr": "root",
+      "recvAddr": "owner",
+      "amount": "null"
+    },
+    "index": 0,
+    "bPreviousHash": "null",
+    "timestamp": 1536231545.285,
+    "bHash": "35ea2bc9a9a5c79bfed33bf3309eb611dc537ed776e5b31fcdd13d3b1967c810"
+  }
+]
