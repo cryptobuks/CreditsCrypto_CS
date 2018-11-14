@@ -1,0 +1,20 @@
+{
+    "workbench.colorCustomizations": {
+        
+    },
+    "editor.tokenColorCustomizations": {
+        "[Gloom]": {
+            "variables": "#57e3ff"
+        },
+        "[DuoTone Dark Sea]": {
+            "textMateRules": [
+                {
+                    "scope": ",
+                    "settings": {
+                        "foreground": "#00ffbf"
+                    }
+                }
+            ]
+        }
+    }
+}

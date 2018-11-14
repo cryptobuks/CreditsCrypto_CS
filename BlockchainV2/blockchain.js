@@ -18,7 +18,7 @@ class Blockchain {
 
     mine() {
         // Process of adding new transactions:
-
+        
         // Add a new block:
         this.addNewBlock();
         // Proof of work:
@@ -46,7 +46,7 @@ class Blockchain {
     }
 
     proofOfWork() {
-
+        
     }
 
     validityCheck() {
